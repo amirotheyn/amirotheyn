@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Aspiring Back-End Developer with a solid foundation in Node.js and hands-on experience with the Express framework. Proficient in front-end technologies, including HTML, CSS, and JavaScript, with familiarity in React for building dynamic user interfaces. Eager to transition into a DevOps Engineer role, aiming to leverage my technical skills and passion for back-end development and DevOps practices in a collaborative team environment. Committed to continuous learning and contributing to innovative software solutions.
+
